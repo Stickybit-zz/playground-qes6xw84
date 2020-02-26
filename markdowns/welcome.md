@@ -42,46 +42,50 @@ En tant que recruteur, avant de vous plonger dans ce code pour en analyser la cl
 Attention cependant : GitHub n'est PAS un CV. C'est davantage une manière d’accéder à des projets tels que des applications mobiles, des jeux, des scripts, des plugins, etc. Plus important encore, GitHub vous permet de voir comment les développeurs collaborent volontairement avec leurs pairs dans des projets collectifs.
 
 
-# 3. Fragen Sie nach der Verwendung von Stack Overflow
+# 3. Demandez-leur comment ils utilisent Stack Overflow
 
-[Stack Overflow](https://stackoverflow.com/) ist im Grunde eine Frage- und Antwortseite rund um das Thema Computerprogrammierung.
-Entwickler können Fragen zu allem stellen und beantworten, was mit Programmierung zu tun hat, und aktive Mitglieder erhalten für ihre Antworten und Beiträge Punkte und Badges. Die Website enthält ein facettenreiches Wissen und jeder Entwickler wird sie täglich nutzen.
+[Stack Overflow](https://stackoverflow.com/) est, dans sa forme la plus immédiate, un site de questions-réponses sur tout ce qui concerne la programmation informatique.
 
-Sie ist ideal dafür geeignet, um den Wissensstand eines Kandidaten und seine Beteiligung an der Entwicklergemeinschaft zu beurteilen. Sie können den Ruf der Entwickler bei Stack Overflow sowie ihre Top-Antworten schnell überprüfen.
-Die Reputationsrate ist umso objektiver, da sie von Gleichgesinnten gewährt wurde. Hochangesehene Benutzer bei Stack Overflow sind Entwickler, die erstens regelmäßig auf der Website aktiv sind, zweitens sachdienliche Fragen stellen und drittens, dank ihres Fachwissens hilfreiche Antworten geben.
+Les développeurs peuvent poser et répondre à des questions sur tous les sujets qui concernent la programmation et les membres actifs reçoivent des points et des badges pour leurs réponses et contributions. 
 
-# 4. Live-Kodierung
+Le site est une mine de d’informations que tout développeur utilise quotidiennement. Il est parfait pour mesurer le niveau de connaissances d'un candidat et son implication dans la communauté des développeurs. 
 
-Da sie wahrscheinlich eine der härtesten und anstrengendsten Herausforderungen sind, denen Entwickler bei einem Rekrutierungsprozess begegnen können, werden Interviews mit Live-Coding oftmals verunglimpft.
+Vous pouvez rapidement vérifier la réputation des développeurs sur Stack Overflow ainsi que leurs réponses les plus appréciées : le taux de réputation est d'autant plus objectif qu'il a été accordé par les pairs. 
 
-Tatsächlich kann es ohne jegliche Übung erheblichen Stress erzeugen, in Gegenwart eines Interviewers zu denken, zu codieren und kommunizieren zu müssen. Aus der Sicht von Personalverantwortlichen sind Live-Programmierungstests allerdings eine ausgesprochen wertvolle Informationsquelle. Sie ermöglichen es dem Personalverantwortlichen, die Logik eines Kandidaten zu verfolgen, seine Fähigkeit zu erklären, was er da grade tut, wie er denkt und seine Fähigkeit, unter Druck zu kodieren.
+Les utilisateurs de renom sur Stack Overflow sont des développeurs qui a) sont régulièrement actifs sur le site b) posent des questions pertinentes c) apportent des réponses utiles grâce à leur expertise.
 
-So können Interviewer nicht nur in Echtzeit sehen, wie sich ein Kandidat allein mit seinen Programmierkenntnissen verhält. Sie testen überdies die kommunikativen und kollaborativen Fähigkeiten innerhalb eines Teams (sofern kollektive Interviews stattfinden).
 
-Gewöhnlich erfolgt die Live-Codierung über die gemeinsame Bildschirmnutzung, bei der der Bewerber ein Briefing erhält und dann bei der Erfüllung der Aufgabe beobachtet wird. Diese Art der Übung unterscheidet sich stark von einer Prüfung, die an einen bestimmten Zeitrahmen geknüpft ist. Die Übung zielt nicht darauf, binnen kürzester Zeit eine korrekte Antwort auf die Frage zu geben, sondern die gesamte Sitzung als konstruktiven Dialog zu betrachten.
+# 4. L’entretien de code à distance ou “Live coding”
 
-Die Interviewer könnten sich dafür interessieren, welche Art von Fragen der Befragte stellen wird, um das Problem besser zu verstehen, bevor er sich an die Lösung des Problems macht. Sie könnten es auch begrüßen, darauf hingewiesen zu werden, sollte der Kandidat irgendwann auf Schwierigkeiten stoßen.
+Parce qu'il est sans doute l'étape la plus complexe et stressante que les développeurs sont amenés à rencontrer dans un processus de recrutement, l’entretien de code à distance est très peu populaire dans la communauté des développeurs.
 
-Letztlich besteht das Ziel dieser Übung nicht darin, ein perfekt konstruiertes, ordentliches Stück Code zu produzieren (oder dies zu bewerten). In der Tat geht es bei der Live-Codierung darum, dass beide Parteien die Möglichkeit haben, in einer dynamischen, dialogorientierten Umgebung Verständnis füreinander zu entwickeln.
+Être capable de réfléchir, de coder et de communiquer simultanément en présence d'un intervieweur en visioconférence peut être très éprouvant si l’on n’a pas d’expérience en la matière. Cependant, du point de vue du recruteur, les tests de programmation en direct constituent une source d'informations très pertinentes. Ils permettent d'observer la logique du candidat, sa capacité à expliquer ce qu'il fait, comment il structure sa réflexion et gère sa capacité à coder sous pression.
 
-# 5. Tests zur Programmierung
+Non seulement ils permettent aux recruteurs de voir, en temps réel, comment un candidat se débrouille seul, uniquement armé de ses connaissances en programmation, mais ils permettent aussi de tester ses compétences en communication et ses capacités de collaboration au sein d'une équipe (dans le cas d’entretiens collectifs).
 
-[Tests zur Programmierung](https://www.codingame.com/work/solutions/coding-skill-assessment/) gehören zu den effizientesten Methoden, um Entwickler vor der Einstellung zu prüfen.
-Sie bieten ein bewährtes Modell um kompetente Entwickler zu identifizieren und einzustellen. Die Kandidaten kodieren sich durch reale, praktische Probleme, die in einem Unternehmen auftreten können (wie beispielsweise das Auffinden eines Fehlers in einem defekten Teil eines Codes oder die ordnungsgemäße Synchronisierung einer Multithread-Anwendung), und ermöglichen es den Personalverantwortlichen, ihre Fähigkeiten im Bereich der Kodierung objektiv und effizient zu beurteilen.
+La plupart du temps, les entretiens de code à distance se font par partage d'écran. Les indications de l’exercice sont données au candidat et ce dernier est ensuite observé pendant qu'il accomplit la tâche. Ce type d'exercice est très différent d'un examen chronométré. L'objectif pour le candidat n'est pas de fournir une réponse correcte à la question dans un temps minimum, mais plutôt d’aborder la session dans sa globalité comme une opportunité de dialogue constructif avec son futur employeur.
 
-Tech-Recruiter für HR-Manager können Programmiertests mit Plattformen wie zum Beispiels [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/) einrichten und wählen, ob sie Bewerber in einer bestimmten Programmiersprache oder über mehrere Technologien ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python usw.) testen möchten.
+Les recruteurs seront intéressés à voir quelles questions la personne interviewée prendra le temps de poser pour bien cerner le problème avant de se précipiter pour tenter de le résoudre. Ils pourront également apprécier qu’un candidat soit transparent sur les difficultés qu’il rencontre.
 
-Der Code der Bewerber wird automatisch analysiert und den Personalverantwortlichen werden Leistungskennzahlen übermittelt. Diese Kennzahlen reichen von der Sprachbeherrschung bis hin zum Code-Design, der Lesbarkeit oder Solidity. Nach Beendigung der Analyse steht ein Testbericht zum Herunterladen und Austauschen zur Verfügung. So lassen sich die Kandidaten einfach miteinander vergleichen und in die engere Wahl ziehen.
+En fin de compte, le but de l’exercice n'est pas pour le candidat de produire un code impeccable. Les entretiens de code en live doivent se résumer à permettre aux deux parties de mieux se comprendre dans un contexte interactif et conversationnel.
 
-Neben der Optimierung des Einstellungsverfahrens bieten diese Tests dazu eine optimierte Erfahrung der Kandidaten (verglichen mit den nicht-technischen Gesprächen, die häufig während eines ersten Gesprächs stattfinden). Programmiertests sind eine Möglichkeit für Personalvermittler, Entwicklern zu zeigen, dass sie technikaffin sind.
 
-Durch Programmierherausforderungen sparen Personalvermittler viel Zeit. Zugleich sichern sich bezüglich der technischen Fähigkeiten ihrer Bewerber ab. 
+# 5. Les tests de programmation automatisés
 
-Technische Online-Programmierungstests ersetzen auf sinnvolle Weise Papier- oder Whiteboard-Tests und ermöglichen Entwicklern, ihre Fähigkeiten unter Beweis zu stellen.
+[Les tests techniques](https://www.codingame.com/work/fr/nos-offres/evaluer/) en ligne sont l'un des moyens les plus efficaces de sélectionner les développeurs avant l'embauche. Cette méthode d’évaluation a fait ses preuves pour identifier et recruter des développeurs qui possèdent les compétences requises pour un poste donné. 
 
-![Entwickler können ihre Programmierkenntnisse demonstrieren, indem sie praktische Programmieraufgaben in Angriff nehmen.](https://w2.codingame.com/work/wp-content/uploads/2018/07/hand-holding-puzzle-piece-1.jpg)
-Entwickler können ihre Programmierkenntnisse demonstrieren, indem sie praktische Programmieraufgaben in Angriff nehmen.
+Lors d’un test de programmation en ligne, les candidats sont appelés à coder pour résoudre des problèmes concrets qu'ils pourraient rencontrer en milieu professionnel (par exemple, trouver un bug dans un code défectueux ou synchroniser correctement une application), permettant aux recruteurs de valider leurs compétences en programmation de manière objective et efficace.
 
-Bedenken Sie unseren Ratschlag, wenn Sie Ihre nächsten Entwickler suchen: Verzichten Sie auf das Rätselraten und seien Sie bei Ihrer Kandidatenwahl auf der sicheren Seite.
+Les directeurs techniques tout comme les responsables RH peuvent mettre en place des tests de programmation à l'aide de plates-formes comme [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/), en choisissant de tester les candidats dans un langage de programmation spécifique ou sur plusieurs technologies à la fois ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python, etc.).
+
+Une fois le code des candidats automatiquement analysé par le système, les recruteurs sont destinataires d’un rapport de test qui liste des indicateurs de performance allant de la maîtrise du langage au design, en passant par la lisibilité ou la robustesse du code. Le rapport de test peut être téléchargé et partagé entre collaborateurs RH pour faciliter la comparaison et la présélection des candidats.
+
+En plus d'optimiser le processus de recrutement, ces tests permettent d'améliorer significativement l'expérience des candidats. En effet, une majorité de développeurs souligne qu’elle n’apprécie pas les entretiens avec des personnes qui seraient peu à même de comprendre les implications techniques de leur métier. Les tests de programmation sont un moyen pour les recruteurs de montrer qu’ils comprennent les exigences d’un poste. 
+
+![](https://w2.codingame.com/work/wp-content/uploads/2018/07/hand-holding-puzzle-piece-1.jpg)
+Par ailleurs, les tests techniques en ligne peuvent aussi se présenter sous la forme de challenges ludiques qui donnent à votre marque employeur un côté immanquablement technophile. 
+
+En résumé, les tests de programmation en ligne permettent aux recruteurs de gagner beaucoup de temps tout en sécurisant leurs embauches sur le plan technique. Ils remplacent avantageusement les tests papier/crayon ou sur tableau blanc, tout en donnant aux développeurs l'occasion de démontrer leurs compétences et d’être évalués de manière objective.
+
 
 [![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/)
