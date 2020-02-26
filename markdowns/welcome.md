@@ -2,6 +2,7 @@
 
 L'évaluation des compétences des développeurs est devenue une étape incontournable dans tout processus de recrutement informatique. Dans une étude récente que nous avons menée, nous avons constaté que le principal défi relevé par 60% des recruteurs lorsqu'ils embauchent des programmeurs était de trouver des candidats suffisamment qualifiés. En effet, la majorité des erreurs de recrutement dans la tech sont dues à un manque de compétences techniques.
 
+
 Les CV sont loin d’être des valeurs sûres pour les profils de développeurs. D’une part, parce qu’ils relèvent du déclaratif et qu’une compétence auto-proclamée reste à vérifier, et d’autre part, parce que les programmeurs ne sont pas toujours les meilleurs pour vendre leur savoir-faire. Résultat : vous risquez de passer à côté de très bons candidats qui ne se démarqueraient pas sur le papier. 
 
 [<img src="https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg">](https://www.codingame.com/work/offers/screening/)
