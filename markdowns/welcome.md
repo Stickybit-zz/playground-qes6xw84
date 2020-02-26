@@ -1,30 +1,26 @@
+![Foo](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
+
 L'évaluation des compétences des développeurs est devenue une étape incontournable dans tout processus de recrutement informatique. Dans une étude récente que nous avons menée, nous avons constaté que le principal défi relevé par 60% des recruteurs lorsqu'ils embauchent des programmeurs était de trouver des candidats suffisamment qualifiés. En effet, la majorité des erreurs de recrutement dans la tech sont dues à un manque de compétences techniques.
 
 Les CV sont loin d’être des valeurs sûres pour les profils de développeurs. D’une part, parce qu’ils relèvent du déclaratif et qu’une compétence auto-proclamée reste à vérifier, et d’autre part, parce que les programmeurs ne sont pas toujours les meilleurs pour vendre leur savoir-faire. Résultat : vous risquez de passer à côté de très bons candidats qui ne se démarqueraient pas sur le papier. 
 
-Le panel de compétences auquel fait appel un programmeur talentueux est large, mais les compétences techniques sont celles que vous pouvez évaluer avec le plus de précision. Voici 5 façons de valider les compétences en programmation de vos candidats développeurs avant l’embauche.
+[<img src="https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg">](https://www.codingame.com/work/offers/screening/)
+
+Le panel de compétences auquel fait appel un programmeur talentueux est large, mais les compétences techniques sont celles que vous pouvez évaluer avec le plus de précision. Voici 5 façons de [valider les compétences en programmation](https://www.codingame.com/work/guide-how-to-test-developers/) de vos candidats développeurs avant l’embauche.
 
 
-# 1. Schauen Sie sich das Programmierer-Portfolio genauer an
+# 1. L’étude du portfolio
 
-Jeder leidenschaftliche Entwickler, mag er auch noch so jung sein, sollte über ein aussagekräftiges Portfolio verfügen.
+Tout développeur passionné, aussi junior soit-il, se doit d’avoir un portfolio de programmeur.
 
-Portfolios sind die beste Möglichkeit für Entwickler, ihre Programmierfähigkeiten mittels persönlicher Projekte zu präsentieren. Portfolios sind zudem eine einzigartige Chance, bleibenden Eindruck zu hinterlassen. Es gibt sie in vielen Formen und Größen, von einzelnen Webseiten für diejenigen, die sich als Junior-Entwickler etablieren möchten, bis hin zu komplexen Software-Projekten für Bewerber auf dem Senior- und Management-Level.
+Les portfolios sont le meilleur moyen pour les développeurs de mettre en valeur leurs compétences en code par le biais de projets personnels. Ils se présentent sous différentes formes et tailles, allant de simples pages Web, pour ceux qui recherchent leur premier poste junior, à des projets logiciels complexes, pour les candidats seniors et les cadres.
 
-Portfolios sind im Rekrutierungsprozess ausgesprochen hilfreich, denn sie belegen den Entwicklungsstand der Bewerber und zeigen ihre Karriereziele, die Fähigkeiten, die sie sich aneignen wollen.
+Les portfolios sont précieux dans le processus de recrutement tech car ils donnent des indications sur le niveau en programmation des candidats, leurs objectifs de carrière, et les compétences qu'ils souhaitent acquérir. Observez comment un candidat décrit le contexte de ses différents projets : son code exploite-t-il les librairies et outils existants ? La personne a-t-elle collaboré avec d'autres développeurs ? A-t-elle travaillé sur beaucoup de projets restés inachevés ?
 
-Achten Sie darauf, wie ein Kandidat den Kontext jedes Projekts beschreibt: Wie haben sie sich mit anderen Bibliotheken oder Tools integriert? Haben sie mit anderen Entwicklern zusammengearbeitet? Waren sie an vielen unvollendeten Projekten beteiligt?
+De bonnes compétences en communication seront toujours à privilégier pour un poste de développeur et un portfolio est aussi un excellent moyen de valider la capacité d'un candidat à expliquer et à présenter son travail.
 
-Gute Kommunikationsfähigkeiten werden sich in einer Entwicklerrolle stets auszahlen. Mit einem Portfolio kann man auch die Fähigkeit eines Kandidaten prüfen, Dinge zu erklären und zu präsentieren.
+Enfin, l'examen du portfolio et l'exploration du code source de certains projets peut servir de base de dialogue avant un entretien et vous aider à construire des questions sur mesure à utiliser lors du processus de recrutement.
 
-Zudem können das Durchschauen des Portfolios eines Kandidaten sowie das Eindringen  in den Quellcode einiger Projekte vor einem [Vorstellungsgespräch](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/) als Gesprächsgrundlage dienen. Es kann Ihnen helfen, spezielle Fragen zu erstellen, die Sie während des Einstellungsverfahrens verwenden können.
-
-Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.
-
-
-![Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
-
-Ein genauer Blick auf das Programmierer-Portfolio gibt Ihnen eine Vorstellung von den Programmierfähigkeiten und dem beruflichen Hintergrund eines Kandidaten.
 
 # 2. Werfen Sie einen Blick auf das GitHub-Profil
 
