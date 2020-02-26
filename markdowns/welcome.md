@@ -76,7 +76,7 @@ En fin de compte, le but de l’exercice n'est pas pour le candidat de produire 
 
 Lors d’un test de programmation en ligne, les candidats sont appelés à coder pour résoudre des problèmes concrets qu'ils pourraient rencontrer en milieu professionnel (par exemple, trouver un bug dans un code défectueux ou synchroniser correctement une application), permettant aux recruteurs de valider leurs compétences en programmation de manière objective et efficace.
 
-Les directeurs techniques tout comme les responsables RH peuvent mettre en place des tests de programmation à l'aide de plates-formes comme [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/), en choisissant de tester les candidats dans un langage de programmation spécifique ou sur plusieurs technologies à la fois ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python, etc.).
+Les directeurs techniques tout comme les responsables RH peuvent mettre en place des tests de programmation à l'aide de plates-formes comme [CodinGame](https://www.codingame.com/work/fr/nos-offres/evaluer/), en choisissant de tester les candidats dans un langage de programmation spécifique ou sur plusieurs technologies à la fois ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python, etc.).
 
 Une fois le code des candidats automatiquement analysé par le système, les recruteurs sont destinataires d’un rapport de test qui liste des indicateurs de performance allant de la maîtrise du langage au design, en passant par la lisibilité ou la robustesse du code. Le rapport de test peut être téléchargé et partagé entre collaborateurs RH pour faciliter la comparaison et la présélection des candidats.
 
