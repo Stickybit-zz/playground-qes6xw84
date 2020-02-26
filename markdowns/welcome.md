@@ -25,21 +25,22 @@ De bonnes compétences en communication seront toujours à privilégier pour un 
 Enfin, l'examen du portfolio et l'exploration du code source de certains projets peut servir de base de dialogue avant un [entretien](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/) et vous aider à construire des questions sur mesure à utiliser lors du processus de recrutement.
 
 
-# 2. Werfen Sie einen Blick auf das GitHub-Profil
+# 2. Jetez un coup d'œil à leur compte GitHub
 
-[GitHub](https://github.com/) ist eine wertvolle Ressource bei der Einstellung von Entwicklern. GitHub dient als ein Online-Showroom, wo Entwickler an Open-Source-Projekten arbeiten und zu den Initiativen anderer beitragen.
+[GitHub](https://github.com/) est une ressource inestimable à considérer lors de l'embauche de développeurs. Cette plate-forme peut être vue comme un showroom en ligne qui présente les projets open-source sur lesquels les développeurs travaillent et comment ils contribuent aux initiatives des autres.
 
-Für Entwickler besteht der Sinn und Zweck eines GitHub-Repositoriums darin, zu zeigen, dass sie lesbaren und wartungsfreundlichen Code schreiben können, den andere Leute leicht nachvollziehen oder in den sie einsteigen können.
+Pour les développeurs, l'intérêt de posséder un dépôt GitHub est de montrer qu'ils peuvent écrire du code lisible et maintenable que d'autres personnes peuvent facilement comprendre ou utiliser.
 
-Bevor Sie als Recruiter in diesen Code eintauchen, um zu überprüfen, wie sauber, lesbar und strukturiert er ist, sollten Sie zunächst simple Metriken überprüfen, wie beispielsweise
+En tant que recruteur, avant de vous plonger dans ce code pour en analyser la clarté, la lisibilité et la structure, commencez par vérifier des métriques très simples telles que :
 
--	Die Anzahl der Follower (Anzeichen für den Ruf)
--	Das Datum, an dem der Kandidat GitHub beigetreten ist (ein nützlicher "zuletzt beigetretener" Filter existiert in den Sortieroptionen oben rechts), als Hinweis auf das Erfahrungsniveau
--	Relevante Schlüsselwörter für Sprachen und Technologien
--	Die Anzahl der Repositories, die Ihr Bewerber hat (Projekte, die er erstellt und was er von anderen mittels "forking" erhält), um ein Gefühl für die Art der Projekte zu bekommen, an denen er beteiligt ist
--	Ihre öffentliche Aktivität macht sich in der Anzahl der Beiträge bemerkbar, die auf der Website geleistet wurden (Pull-Anfragen, Commits, eröffnete Themen)
+- Le **nombre d’abonnés** qui suivent votre candidat (signe de réputation),
+- La **date à laquelle le candidat a rejoint GitHub** (il y a un filtre utile dans les options de tri en haut à droite) comme indication de son niveau d'expérience,
+- Les **mots-clés pertinents** cités sur son profil (langages de programmation et technologies),
+- Le **nombre de dépôts** que votre candidat possède (projets dont il est l'auteur et ceux auxquels il contribue) pour se faire une idée de l’envergure totale des projets auxquels il participe,
+- L’**activité publique** du candidat est représentée par le nombre de contributions apportées au site (pull requests, commits, problèmes posés).
 
-GitHub ist KEIN Lebenslauf. Es ist eine ideale Möglichkeit, einen Einblick in die Arbeitsproben der Entwickler zu erhalten, wie beispielsweise mobile Anwendungen, Spiele, Skripte, Plugins, etc. Aber vor allem können Sie sehen, wie Entwickler freiwillig mit Gleichgesinnten an gemeinsamen Projekten arbeiten.
+Attention cependant : GitHub n'est PAS un CV. C'est davantage une manière d’accéder à des projets tels que des applications mobiles, des jeux, des scripts, des plugins, etc. Plus important encore, GitHub vous permet de voir comment les développeurs collaborent volontairement avec leurs pairs dans des projets collectifs.
+
 
 # 3. Fragen Sie nach der Verwendung von Stack Overflow
 
