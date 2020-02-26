@@ -20,7 +20,9 @@ Les portfolios sont précieux dans le processus de recrutement tech car ils donn
 
 De bonnes compétences en communication seront toujours à privilégier pour un poste de développeur et un portfolio est aussi un excellent moyen de valider la capacité d'un candidat à expliquer et à présenter son travail.
 
-Enfin, l'examen du portfolio et l'exploration du code source de certains projets peut servir de base de dialogue avant un entretien et vous aider à construire des questions sur mesure à utiliser lors du processus de recrutement.
+![](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
+
+Enfin, l'examen du portfolio et l'exploration du code source de certains projets peut servir de base de dialogue avant un [entretien](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/) et vous aider à construire des questions sur mesure à utiliser lors du processus de recrutement.
 
 
 # 2. Werfen Sie einen Blick auf das GitHub-Profil
