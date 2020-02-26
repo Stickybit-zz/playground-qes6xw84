@@ -1,15 +1,9 @@
-Die Einschätzung der Programmierkenntnisse von Entwicklern ist inzwischen ein entscheidender Schritt in jedem technischen Rekrutierungsprozess. In einer [von uns durchgeführten Studie](https://www.codingame.com/work/fr/25-tendances-du-recrutement-tech/) haben wir ermittelt, dass die primäre Herausforderung für 60% der Personalverantwortlichen bei der Einstellung von Programmierern darin bestand, Kandidaten zu finden, die angemessen qualifiziert sind. In der Tat ist die Mehrheit der Fehlbesetzungen bei der Rekrutierung auf einen Mangel technischer Fähigkeiten zurückzuführen.
+L'évaluation des compétences des développeurs est devenue une étape incontournable dans tout processus de recrutement informatique. Dans une étude récente que nous avons menée, nous avons constaté que le principal défi relevé par 60% des recruteurs lorsqu'ils embauchent des programmeurs était de trouver des candidats suffisamment qualifiés. En effet, la majorité des erreurs de recrutement dans la tech sont dues à un manque de compétences techniques.
 
-Sie denken vermutlich: "Moment mal, können Sie sich denn nicht auf die Lebensläufe der Entwickler verlassen?". Bedauerlicherweise, nein.
+Les CV sont loin d’être des valeurs sûres pour les profils de développeurs. D’une part, parce qu’ils relèvent du déclaratif et qu’une compétence auto-proclamée reste à vérifier, et d’autre part, parce que les programmeurs ne sont pas toujours les meilleurs pour vendre leur savoir-faire. Résultat : vous risquez de passer à côté de très bons candidats qui ne se démarqueraient pas sur le papier. 
 
-[<img src="https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg">](https://www.codingame.com/work/offers/screening/)
+Le panel de compétences auquel fait appel un programmeur talentueux est large, mais les compétences techniques sont celles que vous pouvez évaluer avec le plus de précision. Voici 5 façons de valider les compétences en programmation de vos candidats développeurs avant l’embauche.
 
-Zuerst einmal sind Entwickler nicht unbedingt gut darin sind, sich selbst zu verkaufen - es könnte sein, dass Ihnen am Ende großartige Bewerber entgehen, weil sie auf dem Papier nicht auffallen.
-
-Zweitens, weil die selbst genannten Fähigkeiten unzuverlässig sind - wenn Sie Ihre Hoffnungen auf einen glänzenden Lebenslauf setzen, könnten Sie von jemandem enttäuscht werden, der Ihren Erwartungen nicht ganz entspricht.
-
-Zahlreiche Fähigkeiten zeichnen einen talentierten Programmierer aus. Es sind jedoch die technischen Fähigkeiten, die Sie am akkuratesten einschätzen können.
-Hier sind fünf Möglichkeiten, die [Programmierfähigkeiten von Entwicklern zu überprüfen](https://www.codingame.com/work/guide-how-to-test-developers/), bevor Sie sie einstellen:
 
 # 1. Schauen Sie sich das Programmierer-Portfolio genauer an
 
