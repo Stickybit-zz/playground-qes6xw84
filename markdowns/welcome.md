@@ -1,4 +1,4 @@
-![Foo](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
+![Mesurer les compétences des candidats](https://w1.codingame.com/work/wp-content/uploads/2018/07/rsz_1tough-mudder-challenge_2.jpg)
 
 L'évaluation des compétences des développeurs est devenue une étape incontournable dans tout processus de recrutement informatique. Dans une étude récente que nous avons menée, nous avons constaté que le principal défi relevé par 60% des recruteurs lorsqu'ils embauchent des programmeurs était de trouver des candidats suffisamment qualifiés. En effet, la majorité des erreurs de recrutement dans la tech sont dues à un manque de compétences techniques.
 
