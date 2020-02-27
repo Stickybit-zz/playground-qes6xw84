@@ -5,9 +5,9 @@ L'évaluation des compétences des développeurs est devenue une étape incontou
 
 Les CV sont loin d’être des valeurs sûres pour les profils de développeurs. D’une part, parce qu’ils relèvent du déclaratif et qu’une compétence auto-proclamée reste à vérifier, et d’autre part, parce que les programmeurs ne sont pas toujours les meilleurs pour vendre leur savoir-faire. Résultat : vous risquez de passer à côté de très bons candidats qui ne se démarqueraient pas sur le papier. 
 
-[<img src="https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg">](https://www.codingame.com/work/offers/screening/)
+[<img src="https://w1.codingame.com/work/wp-content/uploads/2019/04/CTA_03-2.jpg">](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53069)
 
-Le panel de compétences auquel fait appel un programmeur talentueux est large, mais les compétences techniques sont celles que vous pouvez évaluer avec le plus de précision. Voici 5 façons de [valider les compétences en programmation](https://www.codingame.com/work/guide-how-to-test-developers/) de vos candidats développeurs avant l’embauche.
+Le panel de compétences auquel fait appel un programmeur talentueux est large, mais les compétences techniques sont celles que vous pouvez évaluer avec le plus de précision. Voici 5 façons de [valider les compétences en programmation](https://www.codingame.com/work/guide-how-to-test-developers/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53069) de vos candidats développeurs avant l’embauche.
 
 
 # 1. L’étude du portfolio
@@ -22,7 +22,7 @@ De bonnes compétences en communication seront toujours à privilégier pour un 
 
 ![](https://w2.codingame.com/work/wp-content/uploads/2018/07/binoculars-100590_640-1-1.jpg)
 
-Enfin, l'examen du portfolio et l'exploration du code source de certains projets peut servir de base de dialogue avant un [entretien](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/) et vous aider à construire des questions sur mesure à utiliser lors du processus de recrutement.
+Enfin, l'examen du portfolio et l'exploration du code source de certains projets peut servir de base de dialogue avant un [entretien](https://www.codingame.com/work/blog/top-10-interview-questions-for-developers-to-help-you-find-the-one/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53069) et vous aider à construire des questions sur mesure à utiliser lors du processus de recrutement.
 
 
 # 2. Jetez un coup d'œil à leur compte GitHub
@@ -72,11 +72,11 @@ En fin de compte, le but de l’exercice n'est pas pour le candidat de produire 
 
 # 5. Les tests de programmation automatisés
 
-[Les tests techniques](https://www.codingame.com/work/fr/nos-offres/evaluer/) en ligne sont l'un des moyens les plus efficaces de sélectionner les développeurs avant l'embauche. Cette méthode d’évaluation a fait ses preuves pour identifier et recruter des développeurs qui possèdent les compétences requises pour un poste donné. 
+[Les tests techniques](https://www.codingame.com/work/fr/nos-offres/evaluer/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53069) en ligne sont l'un des moyens les plus efficaces de sélectionner les développeurs avant l'embauche. Cette méthode d’évaluation a fait ses preuves pour identifier et recruter des développeurs qui possèdent les compétences requises pour un poste donné. 
 
 Lors d’un test de programmation en ligne, les candidats sont appelés à coder pour résoudre des problèmes concrets qu'ils pourraient rencontrer en milieu professionnel (par exemple, trouver un bug dans un code défectueux ou synchroniser correctement une application), permettant aux recruteurs de valider leurs compétences en programmation de manière objective et efficace.
 
-Les directeurs techniques tout comme les responsables RH peuvent mettre en place des tests de programmation à l'aide de plates-formes comme [CodinGame](https://www.codingame.com/work/fr/nos-offres/evaluer/), en choisissant de tester les candidats dans un langage de programmation spécifique ou sur plusieurs technologies à la fois ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python, etc.).
+Les directeurs techniques tout comme les responsables RH peuvent mettre en place des tests de programmation à l'aide de plates-formes comme [CodinGame](https://www.codingame.com/work/fr/nos-offres/evaluer/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53069), en choisissant de tester les candidats dans un langage de programmation spécifique ou sur plusieurs technologies à la fois ([Java](https://www.codingame.com/work/java-interview-questions/), Angular, Python, etc.).
 
 Une fois le code des candidats automatiquement analysé par le système, les recruteurs sont destinataires d’un rapport de test qui liste des indicateurs de performance allant de la maîtrise du langage au design, en passant par la lisibilité ou la robustesse du code. Le rapport de test peut être téléchargé et partagé entre collaborateurs RH pour faciliter la comparaison et la présélection des candidats.
 
@@ -88,4 +88,4 @@ Par ailleurs, les tests techniques en ligne peuvent aussi se présenter sous la 
 En résumé, les tests de programmation en ligne permettent aux recruteurs de gagner beaucoup de temps tout en sécurisant leurs embauches sur le plan technique. Ils remplacent avantageusement les tests papier/crayon ou sur tableau blanc, tout en donnant aux développeurs l'occasion de démontrer leurs compétences et d’être évalués de manière objective.
 
 
-[![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/)
+[![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/solutions/coding-skill-assessment/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=53069)
